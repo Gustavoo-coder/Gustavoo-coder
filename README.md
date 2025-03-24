@@ -1,6 +1,6 @@
 # 👨🏽‍💻Ola Seja Bem-vindo!
 
-Me chamo Gustavo Rodrigues, tenho 19 anos e sou de São Paulo. Sou apaixonado por tecnalogia e compartilho  minha jornada de estudo através do meu  linkedin "[Gustavo Rodrigues](https://www.linkedin.com/in/gustavo-rodrigues-68760025b/), atualmente estou cursando Analise e desenvolvimento e Sistemas na  Universidade Cruzeiro do Sul e sigo estudando inglês de uma forma auto-didata.
+Me chamo Gustavo Rodrigues, tenho 19 anos e sou de São Paulo. Sou apaixonado por tecnologia e compartilho  minha jornada de estudo através do meu  linkedin "[Gustavo Rodrigues](https://www.linkedin.com/in/gustavo-rodrigues-68760025b/), atualmente estou cursando Analise e desenvolvimento e Sistemas na  Universidade Cruzeiro do Sul e sigo estudando inglês de uma forma auto-didata.
 ---
 
 
