@@ -1,5 +1,5 @@
 ## 👨‍💻 Sobre mim
-Olá! Me chamo *Gustavo Rodrigues*, tenho 19 anos, sou de São Paulo e estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.  
+Olá! eu me chamo *Gustavo Rodrigues*, tenho 19 anos, sou de São Paulo e estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.  
 Sou apaixonado por tecnologia com propósito — desenvolvo soluções que resolvem *problemas reais* e tocam pessoas, como o projeto **Leia+Comigo**, que nasceu para ajudar meu pai com dificuldades de leitura. Atualmente estou me preparando para atuar como **Desenvolvedor front-end** e busco minha primeira oportunidade na área.
 
 📍 Estou construindo meu caminho como desenvolvedor e compartilhando essa jornada aqui e no meu [LinkedIn](https://www.linkedin.com/in/gustavo-rodrigues-68760025b).
