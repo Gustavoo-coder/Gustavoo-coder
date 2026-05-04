@@ -1,47 +1,120 @@
-## 👨‍💻 Sobre mim
-Olá! eu me chamo *Gustavo Rodrigues*, tenho 19 anos, sou de São Paulo e estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.  
-Sou apaixonado por tecnologia com propósito — desenvolvo soluções que resolvem *problemas reais* e tocam pessoas, como o projeto **Leia+Comigo**, que nasceu para ajudar meu pai com dificuldades de leitura. Atualmente estou me preparando para atuar como **Desenvolvedor front-end** e busco minha primeira oportunidade na área.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-📍 Estou construindo meu caminho como desenvolvedor e compartilhando essa jornada aqui e no meu [LinkedIn](https://www.linkedin.com/in/gustavo-rodrigues-68760025b).
+###
 
+<h1 align="center">Olá, sou Gustavo👨🏽‍💻</h1>
 
-## 🛠 Linguagens e Tecnologias:
+###
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-</p>
+<br clear="both">
 
-## 📬 Redes Sociais :
+<p align="center">Desenvolvedor Front-End em formação com foco em React e experiência com Python no Back-end</p>
 
-<p  align="left">
-  <a href="https://www.linkedin.com/in/gustavo-rodrigues-68760025b/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  </a>
-   <a href="https://github.com/Gustavoo-coder/Gustavoo-coder" target="_blank"> 
-        <img src="https://camo.githubusercontent.com/17a3cfebe6cf2dcf7b339b7b008adb9a55ddc15aec622a27a2a66b207e1e357a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub"/>
-  <a href="https://discord.com/users/1347006358624669808" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-    <a href="mailto:gustavoaft78@outlook.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-</p>
+###
 
+<h2 align="left">Sobre mim 📚</h2>
 
-## 📊 Estatísticas :
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com/?user=Gustavoo-coder&theme=highcontrast&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)" 
-  />
+###
 
+<p align="left">- Estudante de ADS 💫<br>- Foco em Full-Stack<br>- Experiencia com automação e analise de Dados com Python na Vivo 💜</p>
+
+###
+
+<h2 align="left">🛠️Tecnologias</h2>
+
+###
+
+<h2 align="left">Front-End</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h2 align="left">Back-End</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">Ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+</div>
+
+###
+
+<h2 align="left">Design</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="left">📫Vamos nos conectar?</h2>
+
+###
+
+<p align="left">- 💼 Linkdln:  www.linkedin.com/in/gustavo-dev-front<br>- 📩 Email:  gustavoaft78@outlook.com</p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Gustavoo-coder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=Gustavoo-coder&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavoo-coder/Gustavoo-coder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavoo-coder/Gustavoo-coder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gustavoo-coder/Gustavoo-coder/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gustavoo-coder.Gustavoo-coder&left_color=black&right_color=brown"  />
+</div>
+
+###
