@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="center">Front-End</h2>
+<h3 align="center">Front-End</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="center">Back-End</h2>
+<h3 align="center">Back-End</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="center">Ferramentas</h2>
+<h3 align="center">Ferramentas</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="center">Design</h2>
+<h3 align="center">Design</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h2 align="center">📚Atualmente estudando</h2>
+<h3 align="center">📚Atualmente estudando</h3>
 
 ###
 
@@ -108,10 +108,6 @@
   <img src="https://streak-stats.demolab.com?user=Gustavoo-coder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=Gustavoo-coder&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Gustavoo-coder/Gustavoo-coder/output/snake.svg" alt="Snake animation" />
 
 ###
 
