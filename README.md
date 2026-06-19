@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="center">Desenvolvedor Front-End em formação com foco em React e experiência com Python no Back-end</p>
+<p align="center">Desenvolvedor Full-Stack em formação com foco em React e Node.js</p>
 
 ###
 
@@ -47,7 +47,18 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodeks logo"  />
+</div>
+
+
+
+###
+
+<h3 align="center">Dados & Automação </h3>
+
+###
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -60,8 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
@@ -74,28 +83,21 @@
   
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
-</div>
 
-###
-
-<h3 align="center">Design</h3>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
 </div>
 
-###
 
 <h3 align="center">📚Atualmente estudando</h3>
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
   <img width="12" />
   
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
