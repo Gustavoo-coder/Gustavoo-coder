@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="center">Desenvolvedor Full-Stack em formação com foco em React e Node.js</p>
+<p align="center">Desenvolvedor Full-Stack com foco em React e Node.js</p>
 
 ###
 
