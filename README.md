@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">- Estudante de ADS 💫<br>- Foco em Full-Stack<br>- Experiencia com automação e analise de Dados com Python na Vivo 💜</p>
+<p align="center">- Estudante de ADS 💫<br>- Foco em Full-Stack<br></p>
 
 ###
 
